@@ -1,0 +1,22 @@
+
+
+div{
+	position: relative;
+	margin: 15px;
+	float: left;
+}
+
+div>p {
+	position: relative;
+	top: 160px;
+	color: black;
+	font-family: 'Catamaran', sans-serif;
+}
+
+#coders {
+	position: relative;
+	margin: 15px;
+	float: left;
+	width: 150px;
+	height: 150px;
+  }

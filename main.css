@@ -1,0 +1,115 @@
+.container {
+	width: 700px;
+	margin: auto;
+}
+
+#logo {
+	width: 400px;
+	height: 50px;
+
+}
+#lineamenu {
+	padding: 20px 0px;
+    border-bottom: 4px solid #778;
+}
+.texto {
+	font-family: Times;
+	color: black;
+}
+
+/*PARRAFO 1*/
+.t1{
+position: relative;
+left: 220px;
+top: 10px;
+}
+
+/*MENU*/
+#navlist li{
+	list-style: none; 
+	display: inline-block;
+	margin: 10px;
+}
+/*FOTO GRUPAL*/
+#grupo {
+	width: 300px;
+	height: 200px;
+	top: 30px;
+}
+
+/* TEXTO CODERS*/
+ 			div> p{
+ 					text-align: center;
+ 					padding-top: 30px;
+ 					left: 30px;
+ 					}
+
+#coders {
+	position: relative;
+	margin: 15px;
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+
+
+/*PAGINA 2*/ /*PAGINA 2*//*PAGINA 2*//*PAGINA 2*/
+ .cuadro { 	
+    border-top-width: 10px;
+    height: 1150px;
+    width: 700px;
+    border: gray solid;
+}
+.fotochica {
+	border-style: gray 1px;
+	align-content: center;
+	border-radius: 800px;
+	overflow: hidden;
+	left: 180px;
+
+}
+
+/*PARRAFO 2*/
+.t2{
+position: relative;
+left:20px;
+top: 10px;
+}
+
+/*BARRAS*/
+.barra1{
+     width: 580px; 
+     height: 50px; 
+     background: gray;
+     bottom: 15px; 
+}
+.barra2{
+     width:350px; 
+     height: 50px; 
+     background: gray;
+     bottom: 15px;
+}
+
+.barra3{
+     width:150px; 
+     height: 50px; 
+     background: gray;
+     position: relative;
+     top: 60px;
+     right: 380px;
+}
+h3 {
+	position: absolute;
+	top: 15px;
+	left: 10px;
+	color: white;
+}
+
+/*FOTOS PORTAFOLIO*/
+#porta{
+	position: relative;
+	margin: 15px;
+	float: left;
+	width: 150px;
+	height: 90px;
+}
